@@ -6,6 +6,6 @@ Github pages will help us to host static websites for free and can be accesible 
 
 My website Link
 
-----------------
+---
 
 https://jayashreebama.github.io/Task6_gitpages/
